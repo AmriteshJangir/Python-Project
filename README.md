@@ -2,9 +2,8 @@
 # 🌍 Landslide Data Analysis & Visualization
 
 This project performs a detailed exploratory data analysis (EDA) on a landslide dataset using Python, `pandas`, `matplotlib`, and `seaborn`. The goal is to uncover meaningful patterns, trends, and outliers related to landslide occurrences, helping researchers or decision-makers understand environmental and human factors.
----
+--
 ## 📊 Key Features
-
 - Correlation heatmap of all numerical features
 - Monthly frequency of landslides
 - Environmental condition distributions:
