@@ -49,6 +49,8 @@ Optional (but auto-filled if missing):
 - `landslide_type`
 - `location`
 - `fatalities`, `injuries`, `economic_loss`
+
+- The dataset is a CSV file containing landslide-related events, where each record includes at least the event_date field used for time-based analysis. Optional fields like precipitation, slope_angle, population_density, and impact metrics such as fatalities, injuries, and economic_loss provide valuable context for understanding landslide causes and consequences.
 ---
 ## 🚀 How to Run
 
