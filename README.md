@@ -6,7 +6,6 @@ This project performs a detailed exploratory data analysis (EDA) on a landslide 
 ---
 
 ## 📊 Key Features
-
 - Correlation heatmap of all numerical features
 - Monthly frequency of landslides
 - Environmental condition distributions:
